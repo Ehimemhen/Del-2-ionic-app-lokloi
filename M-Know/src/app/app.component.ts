@@ -30,9 +30,47 @@ export class AppComponent {
       title: 'Symptoms',
       url: '/symptoms',
       icon: 'symptoms'
+    },
+    {
+      title: 'Preventions',
+      url: '/preventions',
+      icon: 'preventions'
+    },
+    {
+      title: 'Treatments',
+      url: '/treatments',
+      icon: 'treatments'
+    },
+    {
+      title: 'Statistics',
+      url: '/statistics',
+      icon: 'statistics'
+    },
+    {
+      title: 'FAQs',
+      url: '/faqs',
+      icon: 'faqs'
+    },
+    {
+      title: 'Publications',
+      url: '/publications',
+      icon: 'publications'
+    },
+    {
+      title: 'Help',
+      url: '/help',
+      icon: 'help'
+    },
+    {
+      title: 'Post',
+      url: '/post',
+      icon: 'post'
+    },
+    {
+      title: 'Risk',
+      url: '/risk',
+      icon: 'risk'
     }
-
-
   ];
 
   constructor(
